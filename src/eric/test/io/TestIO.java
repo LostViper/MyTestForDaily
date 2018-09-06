@@ -74,6 +74,7 @@ public class TestIO {
             char[] charArray = new char[500];
             int i = 0;
             String s="";
+            //读取字符到c数组，返回读取到字符的个数
             while((i=fd.read(charArray))!= -1){
                 System.out.println(new String(charArray));
                 System.out.println(i);
