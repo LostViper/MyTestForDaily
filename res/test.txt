@@ -1,0 +1,14 @@
+今天是2018年9月5号
+第二行测试
+public int read(char [] c, int offset, int len)
+读取字符到c数组，返回读取到字符的个数
+
+今天是2018年9月5号
+第二行测试
+public int read(char [] c, int offset, int len)
+读取字符到c数组，返回读取到字符的个数
+
+今天是2018年9月5号
+第二行测试
+public int read(char [] c, int offset, int len)
+读取字符到c数组，返回读取到字符的个数啊啊啊啊啊啊啊
